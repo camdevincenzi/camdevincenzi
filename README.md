@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=33&pause=1000&color=EB8CF7&random=false&width=435&height=60&separator=%3C&lines=return+%22Hello+and+welcome!%22;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=33&pause=1000&color=958cf7&random=false&width=435&height=60&separator=%3C&lines=return+%22Hello+and+welcome!%22;)](https://git.io/typing-svg)
 
 <h2>Let's talk a little bit about me...</h2>
 I'm a software developer from Buenos Aires, Argentina, currently studying at UTN. Although my heart belongs to Front-end, I decided to expand my horizons and now I'm diving into Back-end technologies too.
