@@ -1,15 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=33&pause=1000&color=958cf7&random=false&width=435&height=60&separator=%3C&lines=return+%22Hello+and+welcome!%22;)](https://git.io/typing-svg)
-
-<h2>Let's talk a little bit about me...</h2>
-I'm a software developer from Buenos Aires, Argentina, currently studying at UTN. Although my heart belongs to Front-end, I decided to expand my horizons and now I'm diving into Back-end technologies too.
-
 <h2>My Skills</h2>
 
 <h3>Programming Languages</h3>
 <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>
 <a href="#"><img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
 <a href="#"><img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"></a>
-<a href="#"><img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
 
 <h3>Non programming Languages</h3>
 <a href="#"><img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
